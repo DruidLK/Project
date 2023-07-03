@@ -1,6 +1,8 @@
 
 Feel free to reach out to me for questions.
 Basic Anemic Domain Model, it was my first project learning the new technology/libraries/architecture/etc
+Tools used:
+EFCore, Tynamix, Fluent Assertion, NewtonSoftJson, Moq, etc...
 
 Externals can be Databases/Clouds/Other APIs/ Etcs
 N-Tier Architecture (Loosly Coupled System Scalling Horizontally, they can be split independantly to microservices the services)
